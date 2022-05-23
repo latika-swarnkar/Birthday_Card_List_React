@@ -1,0 +1,17 @@
+.listcss {
+    width: 700px;
+    height: 710px;
+    position: absolute;
+    left: 25%;
+    box-shadow: 5px 10px 10px 10px rgba(13, 13, 11, 0.23);
+}
+
+h3 {
+    margin-top: 10px;
+}
+
+.btncustom {
+    position: absolute;
+    left: 300px;
+
+}
