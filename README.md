@@ -1,4 +1,6 @@
 This is a birthday card list made with react.
+![alt text](https://github.com/latika-swarnkar/Birthday_Card_List_React/blob/master/output.png?raw=true)
+
 
 <!-- # Getting Started with Create React App
 
